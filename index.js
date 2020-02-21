@@ -2,7 +2,7 @@
  * express-nudist
  *
  * npm: express-nudist
- * github: https://github.com/emilioTe/express-nudist
+ * github: https://github.com/thatemilio/express-nudist
  *
  */
 
